@@ -6,3 +6,5 @@ echo " yea man, things cool ";
 echo "kkkk";
 
 echo " great";
+
+echo 4 + 9;
