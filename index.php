@@ -1,4 +1,4 @@
 <?php
 
 echo " sup ";
-echo " things cool ";
+echo " yea man, things cool ";
