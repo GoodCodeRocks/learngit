@@ -5,4 +5,6 @@ echo " yea man, things cool ";
 
 echo "kkkk";
 
-echo " great";
+echo " make programming great again!! ";
+
+echo "making a difference";
