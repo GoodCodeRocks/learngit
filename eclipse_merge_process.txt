@@ -2,4 +2,8 @@
 1. On the local machine, if you are not on a branch with the same name as the remote branch (main branch), switch to it
 2. Merge all changed into the main branch then commit those changes
 3. Pull from the remote branch to get the latest updates
+<<<<<<< HEAD
 4. 
+=======
+4. Just making an adjustment to 
+>>>>>>> branch 'master' of https://github.com/GoodCodeRocks/learngit.git
